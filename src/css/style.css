@@ -1,0 +1,22 @@
+/* site */
+
+body {
+  margin: 0px;
+}
+
+
+ /* container reusables */
+
+div.full {
+  width:100%;
+  height:100%;
+}
+
+div.almondblue {
+  background-color: #38a5f0;
+}
+
+div.full#first {
+  background-image: url('../img/bart.png');
+  background-size: cover;
+}
