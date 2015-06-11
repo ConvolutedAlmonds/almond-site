@@ -1,0 +1,17 @@
+{
+  "name": "almond-site",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ConvolutedAlmonds/almond-site",
+  "authors": [
+    "Kyle Shockey <kyleshockey1@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
