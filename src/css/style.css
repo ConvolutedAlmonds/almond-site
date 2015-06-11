@@ -2,6 +2,8 @@
 
 body {
   margin: 0px;
+  text-align: center;
+  color: #fff;
 }
 
 img {
@@ -11,6 +13,13 @@ img {
 
 div {
   min-height: 1px;
+}
+
+h2 {
+  font-size: 38px;
+  font-family: "HelveticaNeueThin", "HelveticaNeue-Thin", "Helvetica Neue Thin", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Arial", sans-serif;
+  font-weight:200;
+  font-stretch:normal;
 }
 
  /* container reusables */
@@ -28,4 +37,11 @@ div.full#first {
   background-image: url('../img/bart.png');
   background-size: cover;
   padding-top: 130px;
+}
+
+
+/* utility classes */
+
+.padding-top {
+  padding-top: 100px;
 }
