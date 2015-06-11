@@ -40,6 +40,13 @@ div.full#first {
 }
 
 
+/* elements */
+
+.almondLogo {
+  max-width: 90%;
+}
+
+
 /* utility classes */
 
 .padding-top {
